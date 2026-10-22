@@ -1,0 +1,5 @@
+{"timestamp":"2026-08-19T08:00:00.000Z","type":"session_meta","payload":{"id":"demo-codex","cwd":"/demo/catalog"}}
+{"timestamp":"2026-08-19T08:01:00.000Z","type":"turn_context","payload":{"model":"codex-demo"}}
+{"timestamp":"2026-08-19T08:02:00.000Z","type":"event_msg","payload":{"type":"user_message","message":"Handle empty search results in the sample API."}}
+{"timestamp":"2026-08-19T08:03:00.000Z","type":"event_msg","payload":{"type":"token_count","info":{"total_token_usage":{"input_tokens":300,"output_tokens":120,"total_tokens":420}}}}
+{"timestamp":"2026-08-19T08:04:00.000Z","type":"event_msg","payload":{"type":"task_complete","last_agent_message":"Added an empty-results response and regression coverage."}}

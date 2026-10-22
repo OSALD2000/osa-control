@@ -1,0 +1,3 @@
+{"type":"ai-title","aiTitle":"Add search filters","sessionId":"demo-claude"}
+{"timestamp":"2026-08-19T09:00:00.000Z","type":"user","sessionId":"demo-claude","cwd":"/demo/catalog","message":{"content":"Add category filters to the sample catalog."}}
+{"timestamp":"2026-08-19T09:04:00.000Z","type":"assistant","sessionId":"demo-claude","cwd":"/demo/catalog","message":{"model":"claude-demo","usage":{"input_tokens":400,"output_tokens":150},"content":[{"type":"text","text":"Added category filters and verified the empty-results case."}]}}
