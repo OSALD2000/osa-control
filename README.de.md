@@ -1,5 +1,7 @@
 # OSA Control
 
+[![Prüfung](https://github.com/OSALD2000/osa-control/actions/workflows/check.yml/badge.svg?branch=main)](https://github.com/OSALD2000/osa-control/actions/workflows/check.yml)
+
 [English](README.md)
 
 Lokales Dashboard für Claude-Code- und Codex-Sitzungen: Aufgaben, Ergebnisse,
