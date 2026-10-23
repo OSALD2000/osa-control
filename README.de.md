@@ -76,6 +76,7 @@ machen: Eine Mehrbenutzer-Anmeldung ist nicht vorhanden.
 
 `npm run check` prüft TypeScript, Parser-/Status-/Demo-Tests und den Produktions-Build.
 Tests nutzen künstliche Eingaben und temporäre Statusdateien statt persönlicher Quellen.
+GitHub Actions führt dieselbe Prüfung bei Pushes und Pull Requests aus.
 
 Aktivität ist eine Schätzung aus Ereignisabständen mit maximal zehn Minuten je
 Abstand, kein Arbeitszeitnachweis. Der Live-Status basiert auf Dateiänderungszeiten;

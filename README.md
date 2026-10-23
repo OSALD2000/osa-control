@@ -72,6 +72,7 @@ multi-user authentication layer.
 
 `npm run check` runs TypeScript checking, parser/state/demo tests and a production
 build. Tests use synthetic inputs and temporary state rather than personal sources.
+GitHub Actions runs the same check on pushes and pull requests.
 
 Activity is estimated from event gaps capped at ten minutes, not a timesheet.
 Liveness is based on file modification time; copied fixtures may appear active.

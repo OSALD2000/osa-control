@@ -462,7 +462,7 @@ export default async function Dashboard({ searchParams }: PageProps) {
 
       <main id="top">
         {demo && (
-          <p role="status" style={{ padding: "1rem" }}>
+          <p className="demo-notice" role="status">
             Demo mode — synthetic sessions only. Personal session sources are disabled.
           </p>
         )}
